@@ -73,9 +73,9 @@ Here are some of the technologies and tools I'm experienced with:
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kanggawe&show_icons=true&locale=en&theme=dark" alt="kanggawe's GitHub Stats" />
+</p>
 ![Kanggawe GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanggawe&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanggawe&layout=compact&theme=tokyonight)
-</p>
 
 
 <p align="center">
